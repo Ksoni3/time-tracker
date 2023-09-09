@@ -3,6 +3,6 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good night
+Good night everyone
 
 Good Night Students!!!
